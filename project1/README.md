@@ -1,4 +1,4 @@
-# Simple Python TCP Web Server & Client
+# Python TCP Web Server & Client
 Our project demonstrates a basic HTTP server and client using Python sockets.
 
 ## Files
